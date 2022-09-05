@@ -2,16 +2,5 @@ MY TO-DO LIST
 
 1. Write a story
 2. Code
-3. Study Crime and Punishment
-4. Attend meeting
-5. Drink juice
-6. Learn meditation
-7. Buy apples
-8. Play chess with Heroku
-9. Solve chess quizzes
-10. Make rice pudding
-11. Sleep in cabin
-12. Write a novel
-13. Check the level of water in dam
-14. Do performance testing on dam gates
-15. Search the telephone directory
+3. Study books
+4. Eat mangoes
