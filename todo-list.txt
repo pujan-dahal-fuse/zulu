@@ -7,3 +7,7 @@ MY TO-DO LIST
 5. Drink juice
 6. Learn meditation
 7. Buy apples
+8. Play chess with Heroku
+9. Solve chess quizzes
+10. Make rice pudding
+11. Sleep in cabin
