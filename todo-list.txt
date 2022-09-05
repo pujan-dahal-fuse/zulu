@@ -12,3 +12,6 @@ MY TO-DO LIST
 10. Make rice pudding
 11. Sleep in cabin
 12. Write a novel
+13. Check the level of water in dam
+14. Do performance testing on dam gates
+15. Search the telephone directory
